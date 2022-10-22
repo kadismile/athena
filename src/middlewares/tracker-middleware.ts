@@ -1,4 +1,4 @@
-import { Tracker } from './../types';
+import { Tracker } from '../types';
 import randomstring from 'randomstring'
 
 export const trackerMiddleware = (params: Tracker) => {
